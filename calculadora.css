@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: beige;
+    text-align: center;
+  }
+  
+  /* Style the h1 heading */
+  h1 {
+    color: #333;
+  }
+  
+  /* Style the input fields */
+  input[type="text"] {
+    padding: 5px;
+    font-size: 16px;
+    width: 100px;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Style the select element */
+  select {
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Style the buttons */
+  input[type="button"] {
+    padding: 5px 10px;
+    font-size: 16px;
+    background-color: #0073e6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  input[type="button"]:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Style the output paragraph */
+  #saida {
+    font-size: 20px;
+    color: #333;
+  }
+  
+  /* Style the horizontal rule (line) */
+  hr {
+    border: none;
+    border-top: 2px solid #ccc;
+    margin: 20px 0;
+  }
